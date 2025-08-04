@@ -4,7 +4,7 @@ I'm a QA Engineer with a technical background and over 2 years of hands-on exper
 
 ---
 
-### 🚀 Quick Overview:
+### Quick Overview:
 
 - Testing expertise across web apps, mobile AR/VR projects, and immersive 3D products
 - Full understanding of the software development lifecycle — from requirements to production release
@@ -15,12 +15,12 @@ I'm a QA Engineer with a technical background and over 2 years of hands-on exper
 
 ---
 
-### 💡 My Approach:
+### My Approach:
 > QA is not just about finding bugs — it's about making products stable, user-friendly, and production-ready.
 
 ---
 
-### 🧠 What I Bring:
+### What I Bring:
 - Strong tech mindset paired with critical thinking  
 - Able to work with minimal specs or fast-paced environments  
 - Always learning — currently exploring automation tools and best UI/UX testing practices  
